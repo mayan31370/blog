@@ -1,7 +1,12 @@
 ---
 title: 用hexo和github搭建自己的静态博客
 date: 2017-03-08 08:15:08
-tags: [git,hexo]
+tags: 
+  - git
+  - hexo
+categories: 
+  - 工具
+  - hexo
 ---
 # 准备工作
 ## 创建github仓库

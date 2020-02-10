@@ -1,7 +1,13 @@
 ---
 title: 几个ubuntu下比较好用的软件
 date: 2017-03-08 08:14:36
-tags: [ubuntu,tools]
+tags: 
+  - ubuntu
+  - oh-my-zsh
+  - tmux
+  - tilda
+categories: 
+  - 工具
 ---
 安装好ubuntu后，系统会默认安装一系列软件能完成基本工作。
 但是还是有很多软件更符合我的审美，所以。。。

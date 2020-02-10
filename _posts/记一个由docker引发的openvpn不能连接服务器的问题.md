@@ -1,7 +1,13 @@
 ---
 title: 记一个由docker引发的openvpn不能连接服务器的问题
 date: 2017-09-07 16:59:33
-tags: [utunbu,docker,vpn]
+tags: 
+  - ubuntu
+  - docker
+  - openvpn
+categories: 
+  - 工具
+  - openvpn
 ---
 ## 由来
 这几天同事在我们的服务器上搭建了openvpn来增强系统的安全性，并给我创建了一个证书。
