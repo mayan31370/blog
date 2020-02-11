@@ -1,7 +1,11 @@
 ---
 title: Ubuntu下git的一个bug 
 date: 2018-02-01 14:02:57
-tags: [ubuntu,git]
+tags: 
+  - ubuntu
+  - git
+categories: 
+  - 工具
 ---
 在使用ubuntu的时候，偶然会遇到在clone项目时出现错误`error: RPC failed; curl 56 GnuTLS recv error (-110): The TLS connection was non-properly terminated.`
 这是一个从12.04版本开始出现的bug，并且一直没有解决。

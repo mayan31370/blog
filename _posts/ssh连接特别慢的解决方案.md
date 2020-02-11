@@ -1,7 +1,11 @@
 ---
 title: ssh连接特别慢的解决方案
 date: 2017-08-17 14:31:27
-tags: [ubuntu,ssh]
+tags: 
+  - ubuntu
+  - ssh
+categories: 
+  - 工具
 ---
 最近做了不少运维工作，一个之前一直存在但被忽略的问题显的越发的讨厌了。
 

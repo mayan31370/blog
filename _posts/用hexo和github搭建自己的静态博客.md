@@ -6,7 +6,6 @@ tags:
   - hexo
 categories: 
   - 工具
-  - hexo
 ---
 # 准备工作
 ## 创建github仓库

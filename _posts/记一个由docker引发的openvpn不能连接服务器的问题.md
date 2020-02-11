@@ -7,7 +7,6 @@ tags:
   - openvpn
 categories: 
   - 工具
-  - openvpn
 ---
 ## 由来
 这几天同事在我们的服务器上搭建了openvpn来增强系统的安全性，并给我创建了一个证书。

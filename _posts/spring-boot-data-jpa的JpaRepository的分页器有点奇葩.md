@@ -1,7 +1,11 @@
 ---
 title: spring-boot-data-jpa的JpaRepository的分页器有点奇葩
 date: 2017-09-13 11:51:40
-tags: [spring,jpa,repository]
+tags: 
+  - jpa
+categories: 
+  - 开发
+  - springboot
 ---
 在使用JpaRepository时，有时我们会用到分页器，既`Pageable`。
 

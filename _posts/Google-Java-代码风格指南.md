@@ -1,7 +1,10 @@
 ---
 title: Google Java 代码风格指南(中文版)
 date: 2017-03-23 17:40:46
-tags: [代码风格]
+tags: 代码风格
+categories: 
+  - 开发
+  - 辅助
 ---
 **翻译中，目前进度75%**
 [原文链接](https://google.github.io/styleguide/javaguide.html)

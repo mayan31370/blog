@@ -1,7 +1,11 @@
 ---
 title: gitflow应用
 date: 2017-03-07 20:29:28
-tags: [git,gitflow]
+tags: 
+  - git
+categories: 
+  - 开发
+  - 辅助
 ---
 git版本控制提供灵活的分支管理工具。在我们的实际生产应用中怎样使用分支来做好自己的版本控制?gitflow提供了一整套解决方案。
 ## 什么是gitflow？

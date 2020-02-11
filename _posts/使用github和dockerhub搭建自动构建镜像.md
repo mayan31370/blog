@@ -1,7 +1,13 @@
 ---
 title: 使用github和dockerhub搭建自动构建镜像
 date: 2017-11-07 10:13:28
-tags: [git,github,docker]
+tags: 
+  - git
+  - github
+  - docker
+categories: 
+  - 运维
+  - 自动化
 ---
 最近，在工作中需要构建一些docker的公共基础镜像，但每次进行微调时都比较麻烦，所以想自动构建，正好github和dockerhub提供了现成的解决方案。
 
